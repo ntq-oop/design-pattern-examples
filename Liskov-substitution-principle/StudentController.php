@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Class StudentController
  */
@@ -23,6 +22,6 @@ class StudentController {
             return false;
         }
 
-        return $student->getName() . $student->apply();
+        return $student->getName() . ' ' . $student->apply();
     }
 }
