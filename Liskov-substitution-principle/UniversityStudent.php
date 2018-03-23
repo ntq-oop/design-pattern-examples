@@ -10,4 +10,13 @@ class UniversityStudent extends Student implements ApplyableInterface {
     {
         return 'Apply for UniversityStudent';
     }
+    
+    /**
+     * @inheritdoc
+     */
+    public function getName(): string
+    {
+    	return 'UniversityStudent';
+    }
+}
 }

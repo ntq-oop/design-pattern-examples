@@ -10,4 +10,12 @@ class HighSchoolStudent extends Student implements ApplyableInterface {
     {
        return 'Apply for HighSchoolStudent';
     }
+
+    /**
+     * @inheritdoc
+     */
+    public function getName(): string
+    {
+    	return 'HighSchoolStudent';
+    }
 }
