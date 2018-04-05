@@ -11,8 +11,8 @@
 4. Device interface
 4. AndroidDevice class
 4. IosDevice class
-http://prntscr.com/inpryq
-http://prntscr.com/inps55
+![picture](./Images/OPC1.JPG)
+![picture](./Images/OPC2.JPG)
 
 ## Refs
 https://code.tutsplus.com/tutorials/solid-part-2-the-openclosed-principle--net-36600
